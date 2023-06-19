@@ -1,6 +1,6 @@
-### <em>IU000135 : Personalisation and Machine Learning - Mini Project</em>
+### <em>Personalisation and Machine Learning - Mini Project</em>
 # Content-based Movie Recommender with Salient Sentences Extracted by Bert
-<em>Xiaolin Deng - 21001319</em>
+<em>Xiaolin Deng</em>
 
 ### :ledger:[Report](https://git.arts.ac.uk/21001319/XiaolinDeng_Personalisation_Mini_project/blob/main/Report-Content-based%20Movie%20Recommender%20with%20Salient%20Sentences%20Extracted%20by%20Bert-Xiaolin%20Deng.pdf)
 ## Project Rationale
